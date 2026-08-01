@@ -1,0 +1,7 @@
+{
+  "name": "PDF Translate & Summarize",
+  "description": "Translate and summarize PDF files into any target language with export & share capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
